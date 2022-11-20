@@ -78,19 +78,22 @@ body{
 
 .Middle-box1{
     margin-top: 2rem;
-    padding-top: 5rem;
+    padding: 5rem 10rem;
 }
 .Middle-box2{
     margin-top: 5rem;
     margin-bottom: 5rem;
+    padding: 5rem 10rem;
+
 }
 
-/* .bottom-container{
+.bottom-container{
     margin: 10rem 5rem;
-} */
+    text-align: center;
+}
 
 .down-row {
-margin-top: 10rem;
+margin-top: 20rem;
 }
 
 #id {
